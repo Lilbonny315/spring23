@@ -3,6 +3,21 @@ body {
     color: #000000;
     line-height: 140%;
     margin: 30px 30px 30px 30px;
-
+    background-image: url(images/page-bg.gif);
     background-color: #F7F3DE;
 }
+
+header {
+    font-size: 350%;
+    color: #7c1400;
+    padding: 40px;
+    padding-left: 120px;
+    background-image:  url(images/page-bg.gif);
+    background-position:   left top;
+    background-repeat:  no-repeat;
+}
+
+
+
+
+
